@@ -1,2 +1,2 @@
 # statistical_analyses_page
-See website link above.
+[github.io page](https://levibaguley.github.io/statistical_analyses/)
